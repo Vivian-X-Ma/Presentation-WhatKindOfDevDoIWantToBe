@@ -6,8 +6,8 @@ function PetForm() {
       <p>Do you like cats and/or dogs?</p>
     
       <span>
-        <input type="checkbox" id="pet" name="pet" value="Cat" />
-        <label htmlFor="pet">Cats 😻</label>
+        <input type="checkbox" id="cat" name="pet" value="Cat" />
+        <label htmlFor="cat">Cats 😻</label>
         </span>
         <span>
         <br />
