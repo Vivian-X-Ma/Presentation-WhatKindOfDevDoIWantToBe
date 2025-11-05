@@ -33,9 +33,9 @@
 .button:link, .button:visited {
   border-radius: 99px;
   color: #fff;
-  background-color: #ff00b8;
+  background-color: hsl(316, 38%, 23%);
   cursor: pointer;
-  border: 15px solid #ff00b8;
+  border: 15px solid hsl(316, 38%, 23%);
   text-decoration: none;
 }
 
